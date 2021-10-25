@@ -1,0 +1,34 @@
+header{
+    background-image: linear-gradient(to bottom, #53F479, #08BF32, #277339, #023d10) ;
+    height: 150px;
+    
+
+}
+
+body{
+    background-color: rgba(83, 216, 83, 0.534);
+}
+
+.cabeçalio{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+article{
+    width: 800px;
+    margin: auto;
+    background-color: rgba(136, 173, 173, 0.445);
+}
+
+article>p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
